@@ -1,14 +1,13 @@
-<img src="https://github.com/alfbach/rhacm/blob/main/RHACM_logo.png" width="450" height="120">
+<img src="https://github.com/RHEPDS/RH-AdvClustMgmt/blob/main/RHACM_logo.png" width="450" height="120">
 
 
 # Red Hat Advanced Cluster Management Workshop
 ## remote version
 
-https://bluejeans.com/168102684/7122
 
 ## https://www.menti.com/rvcbgbg4p8
 
-August 2022
+04 2023
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes. Based on actual use cases the attendees will get insight into how to install and configure a multi and Hybrid cloud with RHACM.
 
