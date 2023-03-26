@@ -2,12 +2,15 @@
 
 
 # Red Hat Advanced Cluster Management Workshop
-## remote version
+## remote version 04 2023
+
+you can find the content here:
+
 
 
 ## https://www.menti.com/rvcbgbg4p8
 
-04 2023
+https://github.com/RHEPDS/RH-AdvClustMgmt
 
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes. Based on actual use cases the attendees will get insight into how to install and configure a multi and Hybrid cloud with RHACM.
 
