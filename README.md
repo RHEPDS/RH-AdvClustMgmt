@@ -1,14 +1,9 @@
 <img src="https://github.com/RHEPDS/RH-AdvClustMgmt/blob/main/RHACM_logo.png" width="450" height="120">
 
-
 # Red Hat Advanced Cluster Management Workshop
 ## remote version 04 2023
 
 you can find the content here:
-
-
-
-## https://www.menti.com/rvcbgbg4p8
 
 https://github.com/RHEPDS/RH-AdvClustMgmt
 
@@ -23,23 +18,19 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 10:15		RHACM Overview and Architecture Part 1
 
-11:00		BREAK		
+10:50		BREAK		
 
-11:15		RHACM Overview and Architecture Part 2
+11:00		RHACM Overview and Architecture Part 2
 
 12:00		BREAK
 
-13:30		Installing ACM on a OpenShift Cluster
+13:00		Installing ACM on a OpenShift Cluster
 
 14:00		Installing and configuring RHACM on a OpenShift Cluster (LIVE)  
 
-14:30		Break
+14:00		Installing a 2nd Cluster on a HyperScaler with RHACM
 
-14:45		Installing a 2nd Cluster on a HyperScaler with RHACM
-
-15:00		RHACM Whats New / Whats coming		
-
-15:45		Intro into LAB / HomeWork
+14:15		Intro into LAB / HomeWork
 
 		Red Hat Advanced Cluster Management HandsOn
 		
