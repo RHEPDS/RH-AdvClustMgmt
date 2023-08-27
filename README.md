@@ -5,10 +5,7 @@
 
 you can find the content here:
 
-https://github.com/RHEPDS/RH-AdvClustMgmt
-
 The purpose of this workshop is to show attendees the benefits of Red Hat Advanced Cluster Management for Kubernetes. Based on actual use cases the attendees will get insight into how to install and configure a multi and Hybrid cloud with RHACM.
-
 
 ## Agenda:
 
