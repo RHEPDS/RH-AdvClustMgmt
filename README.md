@@ -13,19 +13,17 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 9:45		Hybrid Cloud introduction, a technology overview
 
-10:15		RHACM Overview and Architecture Part 1
+10:15		RHACM Overview and Architecture Part 
 
-10:50		BREAK		
+11:30		BREAK		
 
-11:00		RHACM Overview and Architecture Part 2
+11:00		ACM Live Demo
 
-12:00		BREAK
+12:00		BREAK		
 
-13:00		Installing and configuring RHACM ACM on an OpenShift Cluster
+12:30		HA and Disaster Recovery
 
-13:45		HA and Disaster Recovery
-
-14:30		Intro into LAB / Homework
+13:30		Intro into LAB / Homework
 
   		https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D45314155
 		
