@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/RH-AdvClustMgmt/blob/main/RHACM_logo.png" width="450" height="120">
 
 # Red Hat Advanced Cluster Management Workshop
-## remote version 09 2024
+## remote version 11 2024
 
 you can find the content here:
 
@@ -19,10 +19,10 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 12:30		BREAK		
 
-13:00		HA and Disaster Recovery
+13:30		HA and Disaster Recovery
 
-13:30		Multicluster Networking - Submariner
+14:15		Multicluster Networking - Submariner
 		
-14:00		Q&A
+15:00		Q&A
 
 
