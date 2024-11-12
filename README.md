@@ -19,10 +19,10 @@ The purpose of this workshop is to show attendees the benefits of Red Hat Advanc
 
 12:30		BREAK		
 
-13:00		HA and Disaster Recovery
+13:30		HA and Disaster Recovery
 
-13:30		Multicluster Networking - Submariner
+14:15		Multicluster Networking - Submariner
 		
-14:00		Q&A
+15:00		Q&A
 
 
