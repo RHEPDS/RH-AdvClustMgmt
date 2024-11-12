@@ -1,7 +1,7 @@
 <img src="https://github.com/RHEPDS/RH-AdvClustMgmt/blob/main/RHACM_logo.png" width="450" height="120">
 
 # Red Hat Advanced Cluster Management Workshop
-## remote version 09 2024
+## remote version 11 2024
 
 you can find the content here:
 
